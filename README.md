@@ -68,7 +68,7 @@ Run the scripts in the following order. Ensure that each step completes and gene
 4. **Feature selection (Boruta)**  
    `Rscript boruta_feature_selection.R`
 
-5. **Feature selection (LASSO + voting)**  
+5. **Feature selection (LASSO)**  
    `Rscript lasso_logistic_variable_selection.R`
 
 6. **Model training and evaluation**  
