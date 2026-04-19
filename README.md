@@ -32,10 +32,25 @@ The raw CHARLS data are not included in this repository due to data use restrict
 ## Requirements
 
 ### R packages
-`caret`, `mice`, `Boruta`, `glmnet`, `tableone`, `pROC`, `DMwR`, `ResourceSelection`, `lightgbm`, `dplyr`, `ggplot2`, `rmda`
+- `caret`
+- `mice`
+- `Boruta`
+- `glmnet`
+- `tableone`
+- `pROC`
+- `DMwR`
+- `ResourceSelection`
+- `lightgbm`
+- `dplyr`
+- `ggplot2`
+- `rmda`
 
 ### Python packages
-`pandas`, `matplotlib`, `seaborn`, `shap`, `scikit-learn`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `shap`
+- `scikit-learn`
 
 ## Usage
 
